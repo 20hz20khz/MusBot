@@ -1,6 +1,10 @@
 {
-	"origin": ["#measure#"],
-	"measure":["|#quarter##quarter##quarter##quarter#|#quarter##quarter##quarter##quarter#|#quarter##quarter##quarter##quarter#|#quarter##quarter##quarter##quarter#|"],
+	"origin": ["#measures#"],
+	"measures":["#onemeasure#","#twomeasures#","#threemeasures#","#fourmeasures#"],
+	"onemeasure":["||:#quarter##quarter##quarter##quarter#:||"],
+	"twomeasures":["|#quarter##quarter##quarter##quarter#|#quarter##quarter##quarter##quarter#||"],
+	"threemeasures":["|#quarter##quarter##quarter##quarter#|#quarter##quarter##quarter##quarter#||:#quarter##quarter##quarter##quarter#:||"],
+	"fourmeasures":["|#quarter##quarter##quarter##quarter#|#quarter##quarter##quarter##quarter#|#quarter##quarter##quarter##quarter#|#quarter##quarter##quarter##quarter#||"],
 	"quarter":["\u2669","\u266B","\u266C#eighth#","#eighth#\u266C"],
 	"eighth":["\u266A","\u266C"]
 }
