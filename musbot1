@@ -1,0 +1,21 @@
+{
+	"origin": ["#row##row#\n#row##row#\n#row##row#\n#row##row#\n#row##row#\n"],
+	"row":["#uni##uni##uni##uni##uni##uni##uni##uni##uni##uni##uni#"],
+	"uni":[
+ "\u2669",
+ "\u266A",
+ "\u266B",
+ "\u266C",
+ "\u2669",
+ "\u266A",
+ "\u266B",
+ "\u266C",
+ "\u2669",
+ "\u266A",
+ "\u266B",
+ "\u266C",
+ "\u266D",
+"\u266E",
+"\u266F"]
+
+}
